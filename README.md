@@ -71,7 +71,8 @@ Lets dive into detailed explanations:
 
 ## Page-One: Home
 
-!(C:/Users/Lonewolf/OneDrive/Desktop/power bi/New folder/msr.jpg)
+![Dashboard](https://github.com/ChundiNandagopal/Power-Bi/msr.jpg)
+
 
 This page has been designed to be visually appealing, aiming to provide a comprehensive summary of overall sales performance. The dashboard effectively uses various visual elements to present key performance indicators (KPIs) and other relevant data points.
 
