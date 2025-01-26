@@ -71,7 +71,7 @@ Lets dive into detailed explanations:
 
 ## Page-One: Home
 
-![Image](https://github.com/ChundiNandagopal/Power-Bi/blob/main/msr.jpg)
+![Image](https://github.com/ChundiNandagopal/Power-Bi/blob/main/Medicine%20Sales%20Analysis/msr.jpg)
 
 
 This page has been designed to be visually appealing, aiming to provide a comprehensive summary of overall sales performance. The dashboard effectively uses various visual elements to present key performance indicators (KPIs) and other relevant data points.
